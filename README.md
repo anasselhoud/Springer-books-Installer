@@ -1,6 +1,6 @@
 # Free Springer books - Global lockdown Period
 
-Springer has given free access to around 400 scientific books. I prepared a code to download all the books and set them into categories. All you have to do is download the excel file "springer.xlsx" from the repositroy and run the "download_all.py" script.
+Springer has given free access to around 400 scientific books. The code added allows to download all the books and set them into categories. All you have to do is download the excel file "springer.xlsx" from the repositroy and run the "download_all.py" script.
 
 The list of the free-access books in this file: (use the search bar to check)
 
