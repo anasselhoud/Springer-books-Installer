@@ -4,7 +4,7 @@ import pandas as pd
 from tqdm import tqdm
 
 cwd = os.getcwd()
-books = pd.read_excel(os.path.join(cwd,'Springer.xlsx'))
+books = pd.read_excel(os.path.join(cwd,'springer.xlsx'))
 print('Download started.')
 
 for url, title, author, pk_name in tqdm(books[['OpenURL', 'Book Title', 'Author', 'English Package Name']].values):
