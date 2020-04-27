@@ -2,6 +2,21 @@
 
 Springer has given free access to around 400 scientific books. The code added allows to download all the books and set them into categories. All you have to do is download the excel file "springer.xlsx" from the repositroy and run the "download_all.py" script.
 
+# Installation
+1. Clone and navigate to chatbot directory.
+
+2. Install the required packages.
+```
+pip install -r requirements.txt
+```
+
+3. Run the python server.
+```
+python download_all.py 
+```
+
+
+
 The list of the free-access books in this file: (use the search bar to check)
 
 Fundamentals of Power Electronics ;
