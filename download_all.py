@@ -1,11 +1,12 @@
 import os
 import requests
-import pandas as pd
 from tqdm import tqdm
+import pandas as pd
+
 
 cwd = os.getcwd()
 books = pd.read_excel(os.path.join(cwd,'springer.xlsx'))
-print('Download started.')
+print('Download starts.')
 
 for url, title, author, pk_name in tqdm(books[['OpenURL', 'Book Title', 'Author', 'English Package Name']].values):
 
