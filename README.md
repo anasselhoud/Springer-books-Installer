@@ -1,3 +1,12 @@
+<a class="github-button" href="https://github.com/anasselhoud/free-Springer-books" data-icon="octicon-star" aria-label="Star anasselhoud/free-Springer-books on GitHub">Star</a>
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/anasselhoud)
+
+
 # Free Springer books - Global lockdown Period
 
 Springer has given free access to around 400 scientific books. The code added allows to download all the books and set them into categories. All you have to do is download the excel file "springer.xlsx" from the repositroy and run the "download_all.py" script.
