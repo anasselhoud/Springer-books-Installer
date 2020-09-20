@@ -24,7 +24,7 @@ python download_all.py
 
 The list of the free-access books in this file: (use the search bar to check)
 
-Fundamentals of Power Electronics ;
+* Fundamentals of Power Electronics ;
 Handbook of the Life Course ;
 All of Statistics ; 
 Social Anxiety and Social Phobia in Youth ; 
