@@ -25,100 +25,100 @@ python download_all.py
 The list of the free-access books in this file: (use the search bar to check)
 
 * Fundamentals of Power Electronics ;
-Handbook of the Life Course ;
-All of Statistics ; 
-Social Anxiety and Social Phobia in Youth ; 
-Discrete Mathematics ; 
-Developmental Neurobiology ; 
-Intuitive Probability and Random Processes using MATLAB ; 
-Handbook of Disaster Research ; 
-Handbook of the Sociology of Gender ; 
-Handbook of Sociological Theory ; 
-Clinical Neuroanatomy ; 
-Acquired Brain Injury ; 
-Numerical Optimization ; 
-Handbook of Biological Confocal Microscopy ; 
-Ceramic Materials ; 
-Principles of Fluorescence Spectroscopy ; 
-Fundamentals of Biomechanics ; 
-Primer on the Rheumatic Diseases ; 
-International Handbook of Historical Archaeology ; 
-Database Marketing ; 
-Composite Materials ; 
-Time Series Analysis ; 
-Transmission Electron Microscopy ; 
-Handbook of Quantitative Criminology ; 
-Plant Physiological Ecology ;  
-Introductory Statistics with R ; 
-The Elements of Statistical Learning ; 
-Psychology, Religion, and Spirituality ; 
-Introductory Time Series with R ; 
-Child Neuropsychology ; 
-A Beginner's Guide to R ; 
-Geomorphology of Desert Environments ; 
-The Joy of Science ; 
-Fatigue of Structures and Materials ; 
-Essential Astrophysics ; 
-Introduction to Evolutionary Computing ; 
-Data Analysis ; 
-International Perspectives on Psychotherapy ; 
-Electrical Machines ; 
-Mechanics and Thermodynamics ; 
-Applied Behavior Analysis ; 
-Reading, Writing, and Proving ; 
-Linear and Nonlinear Programming ; 
-Introduction to Partial Differential Equations ; 
-Energy Storage ; 
-Metabolism of Human Diseases ; 
-Sensory Evaluation of Food ; 
-Fundamentals of Robotic Mechanical Systems ; 
-Integrative Human Biochemistry ; 
-Philosophy of Science for Scientists ; 
-Particles and Nuclei ; 
-Data Structures and Algorithms with Python ; 
-LGBT-Parent Families ; 
-Integrated Neuroscience ; 
-Introduction to Partial Differential Equations ; 
-Microeconomics ; 
-System Dynamics ; 
-Cosmology for the Curious ; 
-Methods of Mathematical Modelling ; 
-Introduction to Logic Circuits & Logic Design with Verilog ; 
-Structural Analysis ; 
-Engineering Flow and Heat Exchange ; 
-Enterprise Risk Management Models ; 
-Reactive Power Control in AC Power Systems ; 
-Principles of Microeconomics ;
-Additive Manufacturing Technologies ; 
-Principles of Physics ; 
-Fundamentals of Biomechanics ; 
-Irrigation and Drainage Engineering ; 
-LaTeX in 24 Hours ;
-Psychology of Perception ; 
-Extragalactic Astronomy and Cosmology ; 
-Automata and Computability ;
-The Algorithm Design Manual ; 
-Chemical Thermodynamics ; 
-Computational Physics ;
-Introduction to Statistics and Data Analysis ;
-Grammar for Teachers ;
-Time Series Econometrics
-Electrochemistry
-Classical Fourier Analysis
-Human Chromosomes
-Phylogenomics
-Quantum Theory for Mathematicians
-Evidence-Based Critical Care
-Clinical Assessment of Child and Adolescent Personality and Behavior
-Design Research in Information Systems
-Intermediate Physics for Medicine and Biology
-Principles of Data Mining
-Fundamental Astronomy
-Fundamentals of Business Process Management
-Brownian Motion, Martingales, and Stochastic Calculus 
-UML @ Classroom
-Design and Analysis of Experiments
-Foundations for Designing User-Centered Systems
+* Handbook of the Life Course ;
+* All of Statistics ; 
+* Social Anxiety and Social Phobia in Youth ; 
+* Discrete Mathematics ; 
+* Developmental Neurobiology ; 
+* Intuitive Probability and Random Processes using MATLAB ; 
+* Handbook of Disaster Research ; 
+* Handbook of the Sociology of Gender ; 
+* Handbook of Sociological Theory ; 
+* Clinical Neuroanatomy ; 
+* Acquired Brain Injury ; 
+* Numerical Optimization ; 
+* Handbook of Biological Confocal Microscopy ; 
+* Ceramic Materials ; 
+* Principles of Fluorescence Spectroscopy ; 
+* Fundamentals of Biomechanics ; 
+* Primer on the Rheumatic Diseases ; 
+* International Handbook of Historical Archaeology ; 
+* Database Marketing ; 
+* Composite Materials ; 
+* Time Series Analysis ; 
+* Transmission Electron Microscopy ; 
+* Handbook of Quantitative Criminology ; 
+* Plant Physiological Ecology ;  
+* Introductory Statistics with R ; 
+* The Elements of Statistical Learning ; 
+* Psychology, Religion, and Spirituality ; 
+* Introductory Time Series with R ; 
+* Child Neuropsychology ; 
+* A Beginner's Guide to R ; 
+* Geomorphology of Desert Environments ; 
+* The Joy of Science ; 
+* Fatigue of Structures and Materials ; 
+* Essential Astrophysics ; 
+* Introduction to Evolutionary Computing ; 
+* Data Analysis ; 
+* International Perspectives on Psychotherapy ; 
+* Electrical Machines ; 
+* Mechanics and Thermodynamics ; 
+* Applied Behavior Analysis ; 
+* Reading, Writing, and Proving ; 
+* Linear and Nonlinear Programming ; 
+* Introduction to Partial Differential Equations ; 
+* Energy Storage ; 
+* Metabolism of Human Diseases ; 
+* Sensory Evaluation of Food ; 
+* Fundamentals of Robotic Mechanical Systems ; 
+* Integrative Human Biochemistry ; 
+* Philosophy of Science for Scientists ; 
+* Particles and Nuclei ; 
+* Data Structures and Algorithms with Python ; 
+* LGBT-Parent Families ; 
+* Integrated Neuroscience ; 
+* Introduction to Partial Differential Equations ; 
+* Microeconomics ; 
+* System Dynamics ; 
+* Cosmology for the Curious ; 
+* Methods of Mathematical Modelling ; 
+* Introduction to Logic Circuits & Logic Design with Verilog ; 
+* Structural Analysis ; 
+* Engineering Flow and Heat Exchange ; 
+* Enterprise Risk Management Models ; 
+* Reactive Power Control in AC Power Systems ; 
+* Principles of Microeconomics ;
+* Additive Manufacturing Technologies ; 
+* Principles of Physics ; 
+* Fundamentals of Biomechanics ; 
+* Irrigation and Drainage Engineering ; 
+* LaTeX in 24 Hours ;
+* Psychology of Perception ; 
+* Extragalactic Astronomy and Cosmology ; 
+* Automata and Computability ;
+* The Algorithm Design Manual ; 
+* Chemical Thermodynamics ; 
+* Computational Physics ;
+* Introduction to Statistics and Data Analysis ;
+* Grammar for Teachers ;
+* Time Series Econometrics
+* Electrochemistry
+* Classical Fourier Analysis
+* Human Chromosomes
+* Phylogenomics
+* Quantum Theory for Mathematicians
+* Evidence-Based Critical Care
+* Clinical Assessment of Child and Adolescent Personality and Behavior
+* Design Research in Information Systems
+* Intermediate Physics for Medicine and Biology
+* Principles of Data Mining
+* Fundamental Astronomy
+* Fundamentals of Business Process Management
+* Brownian Motion, Martingales, and Stochastic Calculus 
+* UML @ Classroom
+* Design and Analysis of Experiments
+* Foundations for Designing User-Centered Systems
 Handbook of Consumer Finance Research
 Principles of Terrestrial Ecosystem Ecology
 Applied Multivariate Statistical Analysis
